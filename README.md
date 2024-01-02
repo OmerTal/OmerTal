@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/OmerTal](https://github.com/OmerTal)
 
-- 💬 Ask me about **react, fastAPI, dotnet**
+- 💬 Ask me about **react, typescript, fastAPI, dotnet**
 
 - 📫 How to reach me **omertal100@gmail.com**
 
