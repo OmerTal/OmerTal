@@ -60,6 +60,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omertal&show_icons=true&locale=en&layout=compact" alt="omertal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omertal&show_icons=true&locale=en" alt="omertal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omertal&show_icons=true&locale=en&hide_border=true&count_private=true" alt="omertal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omertal&" alt="omertal" /></p>
